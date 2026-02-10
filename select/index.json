@@ -1,0 +1,232 @@
+{
+  "version": 1,
+  "base_track": "Come Back To Me KYO Non-stop Mix Version",
+  "base_artist": "m-flo",
+  "createdAt": "2026-02-10T13:30:13.993879Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hard Times Come Again No More",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/01_Hard_Times_Come_Again_No_More_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Johnny Come Down To Hilo",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/02_Johnny_Come_Down_To_Hilo_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Come Back As A Country Boy",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/03_Come_Back_As_A_Country_Boy_Blake_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Come Back As A Country Boy",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/04_Come_Back_As_A_Country_Boy_Blake_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Come On Eileen",
+      "artist": "Dexys Midnight Runners",
+      "has_synced": true,
+      "path": "select/05_Come_On_Eileen_Dexys_Midnight_Runners.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Back Where I Come From",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/06_Back_Where_I_Come_From_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Back Where I Come From",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/07_Back_Where_I_Come_From_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Back Where I Come From - New Recording with Kenny's Band",
+      "artist": "Kenny Chesney",
+      "has_synced": false,
+      "path": "select/08_Back_Where_I_Come_From_-_New_Recording_with_Kenny's_Band_Kenny_Chesney.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Back Where I Come From (New Recording with Kenny's Band)",
+      "artist": "Kenny Chesney",
+      "has_synced": false,
+      "path": "select/09_Back_Where_I_Come_From_(New_Recording_with_Kenny's_Band)_Kenny_Chesney.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Boogie Till the Cows Come Home",
+      "artist": "Clay Walker",
+      "has_synced": true,
+      "path": "select/10_Boogie_Till_the_Cows_Come_Home_Clay_Walker.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Boogie Till the Cows Come Home (Album Version)",
+      "artist": "Clay Walker",
+      "has_synced": true,
+      "path": "select/11_Boogie_Till_the_Cows_Come_Home_(Album_Version)_Clay_Walker.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cleaning This Gun (Come On In Boy)",
+      "artist": "Rodney Atkins",
+      "has_synced": true,
+      "path": "select/12_Cleaning_This_Gun_(Come_On_In_Boy)_Rodney_Atkins.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Come A Little Closer",
+      "artist": "Dierks Bentley",
+      "has_synced": true,
+      "path": "select/13_Come_A_Little_Closer_Dierks_Bentley.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Come Back Song",
+      "artist": "Darius Rucker",
+      "has_synced": true,
+      "path": "select/14_Come_Back_Song_Darius_Rucker.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Come Back To Bed (Acoustic)",
+      "artist": "Sean Stemaly",
+      "has_synced": false,
+      "path": "select/15_Come_Back_To_Bed_(Acoustic)_Sean_Stemaly.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Come Cryin' to Me",
+      "artist": "Lonestar",
+      "has_synced": true,
+      "path": "select/16_Come_Cryin'_to_Me_Lonestar.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Come Early Morning",
+      "artist": "Don Williams",
+      "has_synced": true,
+      "path": "select/17_Come_Early_Morning_Don_Williams.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Come From The Heart",
+      "artist": "Kathy Mattea",
+      "has_synced": true,
+      "path": "select/18_Come_From_The_Heart_Kathy_Mattea.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Come",
+      "artist": "安室 奈美恵",
+      "has_synced": false,
+      "path": "select/pl_01_Come_安室_奈美恵.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Come",
+      "artist": "安室 奈美恵",
+      "has_synced": false,
+      "path": "select/pl_02_Come_安室_奈美恵.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Come",
+      "artist": "安室 奈美恵",
+      "has_synced": false,
+      "path": "select/pl_03_Come_安室_奈美恵.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Come",
+      "artist": "安室 奈美恵",
+      "has_synced": false,
+      "path": "select/pl_04_Come_安室_奈美恵.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Come",
+      "artist": "安室 奈美恵",
+      "has_synced": false,
+      "path": "select/pl_05_Come_安室_奈美恵.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "come again",
+      "artist": "安室 奈美恵",
+      "has_synced": false,
+      "path": "select/pl_06_come_again_安室_奈美恵.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "come again",
+      "artist": "安室 奈美恵",
+      "has_synced": false,
+      "path": "select/pl_07_come_again_安室_奈美恵.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "come again",
+      "artist": "安室 奈美恵",
+      "has_synced": false,
+      "path": "select/pl_08_come_again_安室_奈美恵.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "come again",
+      "artist": "安室 奈美恵",
+      "has_synced": false,
+      "path": "select/pl_09_come_again_安室_奈美恵.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "come again",
+      "artist": "安室 奈美恵",
+      "has_synced": false,
+      "path": "select/pl_10_come_again_安室_奈美恵.txt"
+    }
+  ]
+}
